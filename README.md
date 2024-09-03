@@ -1,4 +1,4 @@
-# Jesse's GitHub
+# Hi, i'm Jesse Darkovski
 Welcome to my GitHub. I'm Jesse, a Computer Science student specializing in Artificial Intelligence, NLP, and Robotics. I focus on building humanoid AI and blending technology with human-like experiences.
 
 ### 🌐 **Current Projects**
