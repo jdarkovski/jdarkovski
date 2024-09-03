@@ -1,6 +1,8 @@
 # Hi, i'm Jesse Darkovski
 I'm Jesse, a Computer Science student specializing in Artificial Intelligence, NLP, and Robotics. I focus on building humanoid AI and blending technology with human-like experiences.
 
+> _"How does language shape thought, and how can machines transcend their programming to become something more?"_  
+
 ### 🌐 **Current Projects**
 
 - **[YUI: Humanoid AI](https://github.com/jdarkovski/YUI)**  
