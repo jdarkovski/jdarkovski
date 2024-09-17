@@ -19,7 +19,7 @@ I'm inspired by the themes of Serial Experiments Lain: the boundaries between re
 
 ### 🛠️ **Tech Stack**
 
-- **Languages:** Python, C++, C
+- **Languages:** Python, C++, C, JavaScript
 - **AI/ML:** TensorFlow, PyTorch, Hugging Face
 - **Platforms:** Linux
 
