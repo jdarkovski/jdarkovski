@@ -1,16 +1,16 @@
 # Hi, i'm Jesse Darkovski
-I'm Jesse, a Computer Science student specializing in Artificial Intelligence, NLP, and Robotics. I focus on building humanoid AI and blending technology with human-like experiences.
+I'm Jesse, a Computer Science student specializing in NLP and Robotics. I focus on building humanoid AI and blending technology with human-like experiences.
 
 ### 🌐 **Current Projects**
 
 - **[YUI: Humanoid AI](https://github.com/jdarkovski/YUI)**  
-  My AI project, blending NLP and robotics to create tangible, human-like interactions. (Repo is Private)
+  My AI project, blending NLP and robotics to create tangible, human-like interactions. (Currently Private)
 
-- **NLP & AI Experiments**  
+- **NLP Experiments**  
   Exploring the boundaries of language models and their applications.
 
 - **Creative Coding**  
-  Using py5 and processing to create weird visuals.
+  Using py5 and processing to create visuals.
 
 
 ### 🧠 **Philosophy**
@@ -19,9 +19,8 @@ I'm inspired by the themes of Serial Experiments Lain: the boundaries between re
 
 ### 🛠️ **Tech Stack**
 
-- **Languages:** Python, C++, C, JavaScript
+- **Languages:** Python, C++, JavaScript
 - **AI/ML:** TensorFlow, PyTorch, Hugging Face
-- **Platforms:** Linux
 
 ### 📫 **Connect with Me**
 
