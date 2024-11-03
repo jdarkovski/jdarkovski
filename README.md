@@ -3,8 +3,8 @@ I'm Jesse, a Computer Science student specializing in NLP and Robotics. I focus 
 
 ### 🌐 **Current Projects**
 
-- **[YUI: Humanoid AI](https://github.com/jdarkovski/YUI)**  
-  My AI project, blending NLP and robotics to create tangible, human-like interactions. (Currently Private)
+- **[YUI](https://github.com/jdarkovski/YUI)**  
+  My passion project, blending NLP and robotics to create tangible, human-like interactions. (Currently Private)
 
 - **NLP Experiments**  
   Exploring the boundaries of language models and their applications.
