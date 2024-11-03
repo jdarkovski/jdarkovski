@@ -17,7 +17,7 @@ I'm Jesse, a Computer Science student specializing in NLP and Robotics. I focus 
 
 I'm inspired by the themes of Serial Experiments Lain: the boundaries between reality and the digital world, the nature of identity, and the interconnectedness of everything.
 
-### 🛠️ **Tech Stack**
+### 🛠️ **Tools**
 
 - **Languages:** Python, C++, JavaScript
 - **AI/ML:** TensorFlow, PyTorch, Hugging Face
