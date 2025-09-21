@@ -1,17 +1,5 @@
 # Hi, i'm Jesse Darkovski
-I'm Jesse, a Computer Science student specializing in NLP and Robotics. 
-
-### **Current Projects**
-
-- **YUI**  
-  My passion project, blending NLP and robotics to create tangible, human-like interactions.
-
-- **NLP Experiments**  
-  Exploring the boundaries of language models and their applications.
-
-### **Philosophy**
-
-I'm inspired by the themes of Serial Experiments Lain: the boundaries between reality and the digital world, the nature of identity, and the interconnectedness of everything.
+I'm Jesse, a Computer Science student specializing in NLP.
 
 ### **Languages and Tools**
 
